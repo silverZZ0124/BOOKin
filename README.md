@@ -1,8 +1,8 @@
 # BOOKin
 
-## 프로젝트 링크:(http://www.sysout.co.kr/bookin/)
+## 프로젝트 링크:http://www.sysout.co.kr/bookin/
 #### 관리자 계정: admin/admin
-#### 회원 계정: 
+#### 회원 계정: lisa9601/Admswl12!
 
 ## 개발기간 & 참여인원
 - 2021.05.24 - 2021.06.04 (약 2주)
